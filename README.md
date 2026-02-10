@@ -19,4 +19,12 @@ It allows users to perform a standard Google search directly from the page and i
 - CSS3  
 
 ## 📂 Project Structure
+.
+├── index.html
+├── images.html
+├── advanced.html
+├── styles.css
+└── googlr.png
+
+
 
