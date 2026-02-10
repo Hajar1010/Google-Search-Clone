@@ -1,4 +1,4 @@
-# Google-Search-Clone
+# Google Search Clone
 
 This project is a simple clone of the Google search homepage built using **HTML** and **CSS**.  
 It allows users to perform a standard Google search directly from the page and includes navigation links for **Image Search** and **Advanced Search**.
